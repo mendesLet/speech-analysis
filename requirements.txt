@@ -1,0 +1,8 @@
+librosa
+fastapi
+numpy
+matplotlib
+uvicorn
+pydantic
+num2words
+python-multipart
